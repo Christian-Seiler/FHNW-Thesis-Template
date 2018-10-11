@@ -1,0 +1,42 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.10)  11 OCT 2018 14:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**fhnwht.sty
+(./fhnwht.sty
+LaTeX2e <2018-04-01> patch level 5
+
+LaTeX Warning: You have requested package `',
+               but the package provides `fhnwht'.
+
+Package: fhnwht 2013/10/07, v. 1.1
+providing new style definitions and commands ---
+
+./fhnwht.sty:16: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \usepackage{
+                 color}
+? 
+./fhnwht.sty:16: Emergency stop.
+ ...                                              
+                                                  
+l.16 \usepackage{
+                 color}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 492639
+ 286 string characters out of 6129301
+ 56548 words of memory out of 5000000
+ 3996 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 7i,0n,8p,92b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./fhnwht.sty:16:  ==> Fatal error occurred, no output PDF file produced!
